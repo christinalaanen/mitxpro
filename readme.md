@@ -4,7 +4,7 @@ The exercise demonstrates mouse events and their ability to bind DOM elements to
 
 ## How to Run
 
-Open the HTML document in browser to see the eye movements in action.
+Download the project, then open the HTML document in browser to see the eye movements in action.
 
 ## Roadmap of Future Improvements
 

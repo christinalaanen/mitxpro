@@ -1,1 +1,1 @@
-# mitxpro
+# MIT xPRO Projects

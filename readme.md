@@ -14,4 +14,4 @@ From this starting point, I could see myself experimenting with the eye shapes a
 
 This exercise was done as part of the MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN. The code falls under the MIT license.
 
-<a href="https://christinalaanen.gitlab.io/mitxprojects.html">Back to my MIT xPRO Projects (on Github Pages)</a>
+<a href="https://christinalaanen.github.io/mitxprojects.html">Back to my MIT xPRO Projects (on Github Pages)</a>
